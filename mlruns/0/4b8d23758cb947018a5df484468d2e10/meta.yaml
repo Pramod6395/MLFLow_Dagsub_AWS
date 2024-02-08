@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pramodpatil/Desktop/MLFLow_Dagsub_AWS/mlruns/0/4b8d23758cb947018a5df484468d2e10/artifacts
+end_time: 1707394253868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b8d23758cb947018a5df484468d2e10
+run_name: sneaky-hog-92
+run_uuid: 4b8d23758cb947018a5df484468d2e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707394252313
+status: 3
+tags: []
+user_id: pramodpatil
